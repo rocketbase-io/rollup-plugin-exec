@@ -56,3 +56,4 @@ exclude_patterns:
   - "**/_*"
   - "example/"
   - "gulpfile*"
+  - "build/"
